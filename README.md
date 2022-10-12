@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Siamul 🧑🏽‍💻
-![image](https://user-images.githubusercontent.com/14105405/195276572-14f260d8-6a58-48f0-885a-ddbb408a731f.png =250x250)
+<img src="[https://camo.githubusercontent.com/...](https://user-images.githubusercontent.com/14105405/195276572-14f260d8-6a58-48f0-885a-ddbb408a731f.png)" width="200" height="244" />
 - 👉 I’m interested in computer vision, deep learning and biometrics.
 - 📖 I’m currently pursuing my PhD in CSE at the University of Notre Dame.
 - 📧 How to reach me, Email: siamulkarim@gmail.com, skhan22@nd.edu
