@@ -4,7 +4,7 @@
 
 
 
-\
+
 
 ## 👉 I’m interested in computer vision, deep learning and biometrics.
 
