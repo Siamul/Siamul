@@ -4,8 +4,8 @@
 Me @ Cox's Bazar, Bangladesh
 
 
-
-
+\newline
+\newline
 👉 I’m interested in computer vision, deep learning and biometrics.
 
 📖 I’m currently pursuing my PhD in CSE at the University of Notre Dame.
