@@ -1,4 +1,4 @@
-## 👋 Hello, I’m @Siamul 🧑🏽‍💻
+## 👋 Hello, I’m Siamul 🧑🏽‍💻
 
 ## 👉 I’m interested in computer vision, deep learning and biometrics.
 
